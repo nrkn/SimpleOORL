@@ -1,7 +1,10 @@
-SimpleRL
+SimpleOORL
 
-https://github.com/nrkn/SimpleRL
+https://github.com/nrkn/SimpleOORL
 nrkn.com@gmail.com
+
+A refactoring of SimpleRL to simple OO. Forked from:
+https://github.com/nrkn/SimpleRL
 
 A simple, minimal RogueLike demo (an @ moving around a hardcoded map) implemented in multiple languages.
 
@@ -15,7 +18,7 @@ NEW:
     https://github.com/nrkn/SimpleRLGolf
 
 Planned forks, implenting the following in all languages:
-  very naive oo version
+  very naive oo version (this fork! see https://github.com/nrkn/SimpleRL for the original)
     more expandable and modular version
       a very simple map generator
         from there, in unknown order:
