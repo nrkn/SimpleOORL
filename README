@@ -19,6 +19,7 @@ NEW:
 
 Planned forks, implenting the following in all languages:
   very naive oo version (this fork! see https://github.com/nrkn/SimpleRL for the original)
+  Then, the following to be added:
     more expandable and modular version
       a very simple map generator
         from there, in unknown order:
