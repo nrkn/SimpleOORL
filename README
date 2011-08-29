@@ -3,14 +3,26 @@ SimpleOORL
 https://github.com/nrkn/SimpleOORL
 nrkn.com@gmail.com
 
-A refactoring of SimpleRL to simple OO. Forked from:
+A simple, minimal RogueLike demo (an @ moving around a hardcoded map) 
+implemented in multiple languages.
+
+Trying to follow the idioms of those languages and keep things very, very 
+simple.
+
+Would love to see more languages in here or improvements made by people who 
+know any of these languages better than I do.
+
+This is a refactoring of SimpleRL to use simple OO. Forked from:
 https://github.com/nrkn/SimpleRL
 
-A simple, minimal RogueLike demo (an @ moving around a hardcoded map) implemented in multiple languages.
+I have removed languages from SimpleRL that are not suitable for OO, but 
+perhaps you are using a dialect that does support OO or are a masochist and
+want to implement OO yourself, go for it!
 
-Trying to follow the idioms of those languages and keep things very, very simple.
+Most of the languages have not been refactored yet, the commit message 
+reflects this:
 
-Would love to see more languages in here or improvements made by people who know any of these languages better than I do.
+Cloned from SimpleRL, needs refactoring to OO please
 
 NEW:
   I've created a new repository for SimpleRLGolf, implement SimpleRL in as few
