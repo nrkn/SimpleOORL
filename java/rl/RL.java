@@ -1,3 +1,5 @@
+package rl;
+
 import javax.swing.*;
 import java.awt.*;
 
